@@ -1,0 +1,28 @@
+src/Stryker.Core/Stryker.Core/MutantFilters/SinceMutantFilter.cs
+  s_972b1479651ed3::t_dffad5ea2afdd4 143-144,150,152,158-165
+  s_972b1479651ed3::t_c1716794f06fdd 21,37-51,53,166
+  s_972b1479651ed3::t_897849572ad625 151
+  s_972b1479651ed3::t_623c19cc6da652 153-157
+  s_972b1479651ed3::t_d1fbca5cd36a95 72
+  s_972b1479651ed3::t_0f6b7de8da7490 2
+  s_972b1479651ed3::t_80a0116a1bece9 52
+src/Stryker.Core/Stryker.Core.UnitTest/MutantFilters/SinceMutantFilterTests.cs
+  s_972b1479651ed3::t_83d34eee065e93 340-492
+  s_972b1479651ed3::t_f5e993ba744fb9 6,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "35b6a8ce87edca84a8a77d6f434faabef494bfe2",
+  "prompts": {},
+  "sessions": {
+    "s_972b1479651ed3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa123c61cffe1potD2Dd5x4km2",
+        "model": "unknown"
+      },
+      "human_author": "Kostas Gkoutis <Kostas.Gkoutis@topicus.nl>"
+    }
+  }
+}
