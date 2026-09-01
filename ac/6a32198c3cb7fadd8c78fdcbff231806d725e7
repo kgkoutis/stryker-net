@@ -1,0 +1,20 @@
+src/Stryker.Core/Stryker.Core/MutantFilters/SinceMutantFilter.cs
+  s_972b1479651ed3::t_07df221838631f 21
+  s_972b1479651ed3::t_5acc37ca1cd98a 158-168,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ac6a32198c3cb7fadd8c78fdcbff231806d725e7",
+  "prompts": {},
+  "sessions": {
+    "s_972b1479651ed3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa123c61cffe1potD2Dd5x4km2",
+        "model": "unknown"
+      },
+      "human_author": "Kostas Gkoutis <Kostas.Gkoutis@topicus.nl>"
+    }
+  }
+}
